@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>El vaso medio lleno</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35165</md:content-id>
+  <md:title>El vaso medio lleno</md:title>
+  <md:abstract/>
+  <md:uuid>9fe712a2-3d18-430f-953e-b671e64df21b</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">Analicemos el volumen y altura del agua en un vaso.  </para><list id="eip-977" list-type="enumerated" number-style="arabic"><item>¿Cuál es el volumen cuando el altura mide 2 cm?</item>
+<item>¿Cuánto cambia el volumen desde que el altura mide 2 cm hasta que mide 4 cm?</item>
+<item>¿Cuál es la tasa de cambio (razón de cambio o rapidez) durante ese intervalo?</item>
+<item>¿Cuánto cambia el volumen desde que el altura mide 5 cm hasta que mide 7 cm?</item>
+<item>¿Cuál es la tasa de cambio durante ese intervalo?</item>
+<item>¿Cuánto cambia el volumen desde que el altura mide 8 cm hasta que mide 11 cm?</item>
+<item>¿Cuál es la tasa de cambio durante ese intervalo?</item>
+<item>Escoge dos alturas cualesquiera. ¿Cuál es la diferencia entre ambas alturas? A esta diferencia le llamaremos Δx</item>
+<item>¿Cuánto cambia el volumen durante ese intervalo?</item>
+<item>¿Cuál es la tasa de cambio durante ese intervalo?</item>
+<item>Usa un Δx más pequeño, digamos la mitad del original. ¿Cuánto mide el nuevo Δx?</item>
+<item>¿Cuánto cambia el volumen durante ese intervalo?</item>
+<item>¿Cuál es la tasa de cambio durante ese intervalo?</item>
+<item>Usa un Δx más pequeño, la décima parte del original. ¿Cuánto mide el nuevo Δx?</item>
+<item>¿Cuánto cambia el volumen durante ese intervalo?</item>
+<item>¿Cuál es la tasa de cambio durante ese intervalo?</item>
+<item>Usa un Δx más pequeño, la centécima parte del original. ¿Cuánto mide el nuevo Δx?</item>
+<item>¿Cuánto cambia el volumen durante ese intervalo?</item>
+<item>¿Cuál es la tasa de cambio durante ese intervalo?</item>
+<item>Haz una gráfica que describa el volumen en términos del altura</item>
+<item>Construye una función para el volumen en términos del altura</item></list>
+</content>
+
+</document>

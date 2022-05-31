@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>La caja</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33790</md:content-id>
+  <md:title>La caja</md:title>
+  <md:abstract>Se plantea un problema que deberá ser abordado con un trabajo de equipo, con ayuda del maestro y los conocimientos previos de matemáticas adquiridos en los cursos pasados.</md:abstract>
+  <md:uuid>73f31a9f-33e2-49f0-b20b-96d58203a037</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">Un egresado de la FCM desea hacer cajas sin tapa para envasar su producto. Para esto, hará uso de piezas rectangulares de cartón de 50 por 30 centímetros, cortando cuadrados iguales en las cuatro esquinas, y doblando como lo ilustra el maestro al construir el modelo físico del problema. Encuentra la longitud del lado del cuadrado que será cortado en cada esquina, si se quiere obtener una caja que encierre el mayor volumen posible.
+</para>
+</content>
+
+</document>
